@@ -1,0 +1,3 @@
+EMAIL_FROM="Insira o email de envio"
+EMAIL_TO="Insira o email do destinatário"
+APP_PASSWORD="Insira o passkey gerado no email"
