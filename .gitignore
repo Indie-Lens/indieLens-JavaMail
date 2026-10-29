@@ -1,0 +1,5 @@
+.settings
+.env
+.project
+
+/target/
